@@ -125,7 +125,7 @@ opacity: 0.75;
 
 .intro{
     min-height: 100vh;/* минимаьная высота для блока */
-    background: url("/img/intro-bg.jpg") no-repeat center;/*путь к картинке , не повторяеться  и стоит по центру */
+    background: url("/img/intro-bg.jpg") no-repeat center;/*путь к картинке*/
     background-size: cover ;/*картинка полностью будет покрывать наш блокпри любых его размерах*/
     padding-top: 263px;/*верхний отступ*/
     padding-bottom: 223px;
